@@ -1,2 +1,16 @@
 em: tamanho do texto no elemento pai
 rem: root em = 16px -> tamanho do texto no elemento raiz (html)
+
+: pseudo de classe
+
+root = define a base em um dado específico como no caso do rem. Cada 1 rem pode ser 16px.
+
+margin: tamanho da margem
+
+section: separa todas as criações agrupando-as.
+
+padding: preenchimento interno 
+
+class: usado na estilização dentro do css definido pelo . + o código nomeado com class.
+
+id: definido pelo ponto e não pode ter o mesmo nome diferente de class.
