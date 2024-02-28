@@ -1,0 +1,2 @@
+em: tamanho do texto no elemento pai
+rem: root em = 16px -> tamanho do texto no elemento raiz (html)

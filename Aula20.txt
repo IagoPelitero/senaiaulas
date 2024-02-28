@@ -1,0 +1,6 @@
+Dicas para caso o GitHub apresente problemas:
+1 - Forçar a atualização de remoto (repositório do GitHub) = git push --force
+2 - Forçar atualização local (onde estou trabalhando) = git pull -- rebase
+
+Rebase = rebasear (utiliza o meu branch local)
+
