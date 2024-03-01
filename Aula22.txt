@@ -35,10 +35,37 @@ box-sizing: como o css calcula o tamanho dos elementos
 
 Copiar linhas:
 1º Seleciona as linhas a serem copiadas
-2º Segure a tecla ALT + Shift + set para baixo
+2º Segure a tecla ALT + Shift + ⬇
 
 Scroll-behavior: smooth comportamento da rolagem: suave
 
 "*" todos os elementos aplicáveis
 
 Root - elemento raiz (html), mais alta hierarquia.
+
+Blockquote também é semântico
+
+05/03 -> visita da Alice Soares (ESG Ford)
+
+
+blockquote:before -> antes do elemento blockcode
+blockquote:after -> depois do elemento blockcode
+
+Existem muitas pseudo classes
+
+: -> pseudo-classe ()
+
+Blockquote -> display: block
+q -> display: inline
+
+Elementos inline são espaços apenas onde constam o conteúdo
+
+para alinhamentos -> display: flex (caixa flexível)
+
+Agrupar os seletores por afinidade
+
+flexbox tem várias propriedades que trabalham juntos
+
+justify- content center alinha o conteúdo no eixo principal
+
+display: flex -> sempre aplicado no elemento pai (conteiner)
