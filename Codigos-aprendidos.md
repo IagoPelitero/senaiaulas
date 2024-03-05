@@ -1,4 +1,6 @@
-em: tamanho do texto no elemento pai
+'''html
+
+'<em>': tamanho do texto no elemento pai
 rem: root em = 16px -> tamanho do texto no elemento raiz (html)
 
 : pseudo de classe
@@ -14,3 +16,7 @@ padding: preenchimento interno
 class: usado na estilização dentro do css definido pelo . + o código nomeado com class.
 
 id: definido pelo ponto e não pode ter o mesmo nome diferente de class.
+
+Span: utilizado para estilizar a limitação inline.
+
+'''
