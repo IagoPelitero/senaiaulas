@@ -31,6 +31,10 @@ Para id usamos '#texto'
 
 Quando precisar especificar mais ainda usamos o nome da tag mais o elemento que precisa ser estilizado no css.
 
-'section h2 {
+```html
+
+`section h2 {
 font-size: ;
-}'
+}`
+```
+Selecionando as tags e clicando em ctrl + D ele selciona todas as tags do mesmo nome e altera sua informação.
