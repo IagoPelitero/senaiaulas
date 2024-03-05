@@ -1,6 +1,4 @@
-'''html
-
-'<em>': tamanho do texto no elemento pai
+em: tamanho do texto no elemento pai
 rem: root em = 16px -> tamanho do texto no elemento raiz (html)
 
 : pseudo de classe
@@ -17,6 +15,6 @@ class: usado na estilização dentro do css definido pelo . + o código nomeado 
 
 id: definido pelo ponto e não pode ter o mesmo nome diferente de class.
 
-Span: utilizado para estilizar a limitação inline.
+Span: é uma tag HTML utilizada para agrupar e estilizar partes específicas de um texto dentro de um elemento maior. Ele é um elemento de linha e não possui nenhum significado semântico específico, ou seja, é apenas uma caixa genérica para estilização e manipulação de texto.
 
-'''
+
