@@ -33,8 +33,10 @@ Quando precisar especificar mais ainda usamos o nome da tag mais o elemento que 
 
 ```html
 
-`section h2 {
+```
+section h2 {
 font-size: ;
-}`
+} 
+```
 ```
 Selecionando as tags e clicando em ctrl + D ele selciona todas as tags do mesmo nome e altera sua informação.
