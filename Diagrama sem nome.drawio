@@ -1,9 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T12:34:34.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.5" etag="hzONHTDGIAkj0AlS-u0g" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T13:39:28.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FMfdFT3Goj2EYCpigrOt" version="24.0.5" type="github">
   <diagram name="Página-1" id="udMkNMiurd7OEXwh9Prh">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-1" value="Frigideira, óleo e ovo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-12" target="zkHB1T5vUL_ikhcTziwC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-12" value="Aguarde o ovo começar a fritar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-13" target="zkHB1T5vUL_ikhcTziwC-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-16" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zkHB1T5vUL_ikhcTziwC-15">
+          <mxGeometry x="-0.0252" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-65" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zkHB1T5vUL_ikhcTziwC-15">
+          <mxGeometry x="-0.0291" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-13" target="zkHB1T5vUL_ikhcTziwC-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-59" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zkHB1T5vUL_ikhcTziwC-58">
+          <mxGeometry x="-0.225" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-13" value="Gema mole?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-19" target="zkHB1T5vUL_ikhcTziwC-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-62" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zkHB1T5vUL_ikhcTziwC-61">
+          <mxGeometry x="-0.4338" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-19" target="zkHB1T5vUL_ikhcTziwC-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-64" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zkHB1T5vUL_ikhcTziwC-63">
+          <mxGeometry x="-0.194" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-19" value="Gema firme?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-20" value="Sirva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100.29999999999995" y="161.20000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-48" target="zkHB1T5vUL_ikhcTziwC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-48" value="Mexer com a espátula até ficar firme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-51" target="zkHB1T5vUL_ikhcTziwC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-51" value="Quebre o ovo na frigideira" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-52" target="zkHB1T5vUL_ikhcTziwC-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-52" value="Leve a frigideira ao fogo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-53" target="zkHB1T5vUL_ikhcTziwC-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-53" value="Adicione óleo a frigideira" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-66" target="zkHB1T5vUL_ikhcTziwC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-66" value="Retire e coloque em um prato" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-67" target="zkHB1T5vUL_ikhcTziwC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-67" value="Aguarde esfriar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
