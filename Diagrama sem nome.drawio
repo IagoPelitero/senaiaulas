@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T01:19:53.716Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36" etag="QgkdfODC0dGSjFcGBBHy" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T01:41:03.357Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36" etag="EFw7TCWUdMEsYRlHQdsT" version="24.0.5" type="github">
   <diagram name="Página-1" id="udMkNMiurd7OEXwh9Prh">
     <mxGraphModel dx="756" dy="2395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         <mxCell id="QhYeZItJcINu2YDlZMJM-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zkHB1T5vUL_ikhcTziwC-67" target="QhYeZItJcINu2YDlZMJM-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zkHB1T5vUL_ikhcTziwC-67" value="Com a espátula, retire o ovo e coloque em um prato" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zkHB1T5vUL_ikhcTziwC-67" value="Pegue um prato" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QhYeZItJcINu2YDlZMJM-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QhYeZItJcINu2YDlZMJM-1">
@@ -160,13 +160,13 @@
         <mxCell id="QhYeZItJcINu2YDlZMJM-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QhYeZItJcINu2YDlZMJM-25" target="QhYeZItJcINu2YDlZMJM-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QhYeZItJcINu2YDlZMJM-25" value="Aguarde esfriar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QhYeZItJcINu2YDlZMJM-25" value="Com a espátula coloque o ovo no prato" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QhYeZItJcINu2YDlZMJM-31" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QhYeZItJcINu2YDlZMJM-28" target="QhYeZItJcINu2YDlZMJM-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QhYeZItJcINu2YDlZMJM-28" value="Tempere a gosto (sal ou outro tempero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QhYeZItJcINu2YDlZMJM-28" value="Tempere o ovo a gosto (sal ou outro tempero)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QhYeZItJcINu2YDlZMJM-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QhYeZItJcINu2YDlZMJM-30" target="QhYeZItJcINu2YDlZMJM-32">
