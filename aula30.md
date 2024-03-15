@@ -4,13 +4,13 @@ Exemplo: Quando temos uma instrução como arrumar a cadeira embaixo da cadeira 
 
 A global vale para qualquer ambiente como jogar o lixo no lixo.
 
-O root tem propriedade de escopo global
+O root tem propriedade de escopo global.
 
-Nomeando varáveis (definindo o seu iedntificador):
-kebab-case -> Ex:"minha-variavel-numerica"
+*Nomeando varáveis (definindo o seu iedntificador):*
+*kebab-case -> Ex:"minha-variavel-numerica"
 under_case ou snake_case -> Ex:"minha_variavel_numeria"
 camelCase -> Ex:"minhaVariavelNumerica"
-PascalCase -> Ex:"MinhaVariavelNumerica"
+PascalCase -> Ex:"MinhaVariavelNumerica"*
 
 let minhaVariavel = 'iago'; (quando possui ' -> aspas simples é texto)
 
@@ -21,7 +21,8 @@ let minhaVariavel = 'iago'; (quando possui ' -> aspas simples é texto)
 Aula sobre tipagem:
 let minhaVariavel = 'iago';
 
-undefined
+~~~js
+`undefined
 ty
 VM176:1 Uncaught ReferenceError: ty is not defined
     at <anonymous>:1:1
@@ -86,7 +87,8 @@ minhaVariavel = [
 ];
 (3) [Array(3), Array(3), Array(3)]
 typeof(minhaVariavel)
-'object'
+'object'`
+~~~
 
 # Operadores de atribuição:
 = -> valor atribuido à variável
