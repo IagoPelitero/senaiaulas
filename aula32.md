@@ -1,4 +1,4 @@
-Aula 32
+# Aula 32
 
 estrutrura **IF-ELSE**
 
@@ -16,8 +16,12 @@ if (expressão para ser avaliada) {
 
 ## Operadores de comparação
 * `==` -> é igual
+* `===` -> é estritamente igual *(valor e tipo)*
+* `!==` -> não é estritamente igual *(valor e tipo)*
 * `!=` -> não é igual
 * `>` -> maior que
 * `<` -> menor que
 * `>=` -> maior ou igual
 * `<=` -> menor ou igual
+
+*obs: `!` significa não
