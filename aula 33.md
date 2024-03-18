@@ -74,3 +74,53 @@ console.log(`IMC: ${imc} -- Obesidade III`)
 ~~~
 
 Prescia ter `else-if` pois ele irá testar todos separadamente ao invés de tratar o código unicamente.
+
+Quando trabalhamos com faixas, precisamos de intervalos abertos e fechados.
+
+Teste 2:
+
+~~~js
+const =
+    altura = 1.73
+    peso = 83
+    imc = peso / altura ** 2;
+
+if (imc < 1.85){
+    console.log(`IMC: ${imc} -- Abaixo do peso`);
+} else if (imc >= 18.5 && imc < 24.9){
+    console.log(`IMC: ${imc} -- Peso normal`)
+} else if (imc >= 25.o && imc < 29.9) {
+    console.log(`IMC: ${imc} -- Sobrepeso`)
+} else if (imc >= 30.o && imc < 34.9)
+console.log(`IMC: ${imc} -- Obesidade grau I`)
+} else if (imc >= 35.o && imc < 39.9)
+console.log(`IMC: ${imc} -- Obesidade grau II`)
+} else {
+console.log(`IMC: ${imc} -- Obesidade III`)
+}
+
+~~~
+
+Teste 3:
+
+~~~js
+
+const =
+    altura = 1.73
+    peso = 83
+    imc = 24.91;
+
+if (imc < 1.85){
+    console.log(`IMC: ${imc} -- Abaixo do peso`);
+} else if (imc >= 18.5 && imc < 25.0){
+    console.log(`IMC: ${imc} -- Peso normal`)
+} else if (imc >= 25.o && imc < 30.0) {
+    console.log(`IMC: ${imc} -- Sobrepeso`)
+} else if (imc >= 30.o && imc < 35)
+console.log(`IMC: ${imc} -- Obesidade grau I`)
+} else if (imc >= 35.o && imc < 40.0)
+console.log(`IMC: ${imc} -- Obesidade grau II`)
+} else {
+console.log(`IMC: ${imc} -- Obesidade III`)
+}
+~~~
