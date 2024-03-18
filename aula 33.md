@@ -46,7 +46,7 @@ if (media >= 7){
 
 O JavaScript já transforma em objeto as varáveis.
 
-Quando acrescentamos `.toFixed(quantidade de prefixos mostrados)` ele limita os números mostrados ao usuário.
+Quando acrescentamos `.toFixed(quantidade de arredondamentos que quero que o sistema traga)` ele limita os números mostrados ao usuário.
 
 ## desafio2.js
 
@@ -124,3 +124,31 @@ console.log(`IMC: ${imc} -- Obesidade grau II`)
 console.log(`IMC: ${imc} -- Obesidade III`)
 }
 ~~~
+
+A função `||` (or) não deve ser usada pois traria várias opções verdadeiras, diferente da `&&` (and).
+
+Código com operadores lógicos:
+
+~~~js
+const peso = window.prompt('Peso');
+const altura = window.prompt('altura');
+
+const IMC = peso / (altura ** 2);
+
+if (IMC < 18.5){
+    window.alert(`IMC: ${IMC.toFixed(2)} --> Abaixo do peso`);
+} else if (IMC >= 18.5 && IMC <= 25) {
+    window.alert(`IMC: ${IMC.toFixed(2)} --> Peso normal`);
+} else if (IMC >= 25 && IMC <= 30){
+    window.alert(`IMC: ${IMC.toFixed(2)} --> Sobrepeso`)
+} else if (IMC >= 30 && IMC <= 35){
+    window.alert(`IMC: ${IMC.toFixed(2)} --> Obesidade grau I`)
+}else if (IMC >= 35 && IMC <= 40){
+    window.alert(`IMC: ${IMC.toFixed(2)} --> Obesidade grau II`)
+} else {
+    window.alert(`IMC: ${IMC.toFixed(2)} --> Obesidade grau III`)}
+~~~
+
+Se não é < (menor) que 18.5, mesmo que seja o próprio, ele é >= (maior ou igual a) 18.5. Ele não vai apresentar um resultado se o símbolo for `<`, ou seja, ele irá passar para a próxima condição.
+Se ele é falsa na condição anterior e ela será falsa também na seguinte até testar o próximo código.
+
