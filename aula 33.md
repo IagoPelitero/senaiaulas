@@ -1,6 +1,8 @@
-Aula 33 correção do desafio.
+# Aula 33 correção do desafio.
 
 código do professor inicialmente usado:
+
+## desafio1.js
 
 ~~~js
 
@@ -45,3 +47,30 @@ if (media >= 7){
 O JavaScript já transforma em objeto as varáveis.
 
 Quando acrescentamos `.toFixed(quantidade de prefixos mostrados)` ele limita os números mostrados ao usuário.
+
+## desafio2.js
+
+~~~js
+
+const =
+    altura = 1.73
+    peso = 83
+    imc = peso / altura ** 2;
+
+if (imc < 1.85){
+    console.log(`IMC: ${imc} -- Abaixo do peso`);
+} if (imc > 18.5 && imc < 24.9){
+    console.log(`IMC: ${imc} -- Peso normal`)
+} if (imc > 25.o && imc < 29.9) {
+    console.log(`IMC: ${imc} -- Sobrepeso`)
+} if (imc > 30.o && imc < 34.9)
+console.log(`IMC: ${imc} -- Obesidade grau I`)
+} if (imc > 35.o && imc < 39.9)
+console.log(`IMC: ${imc} -- Obesidade grau II`)
+} else {
+console.log(`IMC: ${imc} -- Obesidade III`)
+}
+
+~~~
+
+Prescia ter `else-if` pois ele irá testar todos separadamente ao invés de tratar o código unicamente.
