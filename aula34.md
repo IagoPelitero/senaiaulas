@@ -17,3 +17,11 @@
   - se a segunda for Celsius: *tC = tK + 273.15*
   - se a segunda for Fahrenheit: *tF = (tF - 273.15) * 9/5 + 32*
 * Mostre o resultado
+
+  `parseFloat()` -> converte texto para tipo number com ponto decimal
+  `parseInt()` -> converte texto para tipo number inteiro
+  `toUpperCase()` -> ele transforma em maiúsculo. (é um método do objeto).
+
+  Se precisar de mais informações sobre o desafio 3: procurar no link <https://github.com/IagoPelitero/logica-programacao> e clicar em **desafio3.js**.
+
+  Ali está o código.
