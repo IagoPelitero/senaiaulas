@@ -21,3 +21,5 @@ Quando precisar, algumas dicas para realizar os "git" comandos:
 * `git commit -m "comentário"` --> cria um commit;
 
 **git pull = git fetch (buscar) + git merge (mesclar)**
+
+*21/03/2024*
