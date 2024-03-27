@@ -1,4 +1,4 @@
-em: tamanho do texto no elemento pai
+`em:` tamanho do texto no elemento pai
 rem: root em = 16px -> tamanho do texto no elemento raiz (html)
 
 : pseudo de classe
@@ -20,3 +20,16 @@ Span: é uma tag HTML utilizada para agrupar e estilizar partes específicas de 
 Simbolo do windows (#) + "." ponto - emojis do windows❤
 
 copiar linhas no html: html alt + shift + ⬇
+
+~~~bash
+pwd (Get-Location, Mostra o diretório atual)
+cd .. (volta o diretório anterior)
+cd ~ vai ao diretório padrão
+cd <repositório> leva até o diretório escolhido
+~~~
+
+`<form>` - função intrínseca com reset para limpar os dados quando temos button
+`<form action="">` quando em branco não executa nenhuma ação. No desafio 4, não usamos pois o JavaScript já está executando a ação.
+
+`<div>` uma tag genérica que precisa de outros elementos para ser semântica na página.
+
